@@ -1,0 +1,6 @@
+
+
+#install nginx
+
+#install passenger
+
